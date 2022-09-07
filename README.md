@@ -6,3 +6,13 @@ Build E-commerce website using WordPress The user can add product to carts and m
 
 Trello link :
 https://trello.com/b/5RCl887h/e-commerce-website
+
+
+
+
+
+wireframe & mockup pdf :
+
+
+[Untitled (5).pdf](https://github.com/Ramajardat/e-commerce-website/files/9507465/Untitled.5.pdf)
+
